@@ -3,4 +3,12 @@
 
 ![Spyraverse Games: Spyragon and Spyrazoid](GithubBanner_Final.png?raw=true)
 
+<h1 align="center">
+	<br>
+	<br>
+	<img width="33%" src="demo1.gif">
+	<br>
+	<br>
+</h1>
+
 #### Follow us on [Facebook](https://www.facebook.com/spyraverse), [Instagram](https://www.instagram.com/spyraverse/), and [Twitter](https://twitter.com/spyraverse): **@spyraverse**
