@@ -13,4 +13,4 @@
 
 [Spyraverse Home](https://spyraverse.com/)
 
-Founded by @spirometaxas
+Founded by [Spiro Metaxas](https://spirometaxas.com/)
