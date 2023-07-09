@@ -15,4 +15,4 @@
 
 Founded by [Spiro Metaxas](https://spirometaxas.com/)
 
-![test](mp4-backup.mp4)
+![test](test.gif)
