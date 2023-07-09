@@ -14,5 +14,3 @@
 [Spyraverse Home](https://spyraverse.com/)
 
 Founded by [Spiro Metaxas](https://spirometaxas.com/)
-
-![test](test.gif)
